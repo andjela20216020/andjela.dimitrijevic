@@ -1,0 +1,145 @@
+html{
+	background-color: #f598ef;
+}
+#naslov1{
+	text-align: left;
+	font-family: Verdana;
+	font-size: 15px;
+	color: white;
+}
+#pocetna{
+	font-family: Verdana;
+	font-size: 20px;
+	color: hotpink;
+	position: absolute;
+	top: 8px;
+	right: 16px;
+}
+#slika1{
+	text-align: center;
+}
+#tekst1{
+	font-family: Verdana;
+	font-size: 20px;
+	color: blue;
+	text-align: center;
+	padding: 20px;
+}
+#slika2{
+	text-align: center;
+	padding-top: 50px;
+}
+#tekst2{
+	font-family: Verdana;
+	font-size: 20px;
+	color: red;
+	text-align: center;
+	padding: 20px;
+}
+#slika3{
+	text-align: center;
+	padding-top: 50px;
+}
+#tekst3{
+	font-family: Verdana;
+	font-size: 20px;
+	color: black;
+	text-align: center;
+	padding: 20px;
+}
+#naslov2{
+	text-align: left;
+	font-family: Verdana;
+	font-size: 20px;
+	color: white;
+	padding-top: 50px;
+}
+#zid1{
+	text-align: center;
+}
+#zidtekst1{
+	font-family: Verdana;
+	font-size: 20px;
+	color: black;
+	text-align: center;
+	padding: 20px;
+}
+
+#zid2{
+	text-align: center;
+	padding-top: 50px;
+}
+#zidtekst2{
+	font-family: Verdana;
+	font-size: 20px;
+	color: white;
+	text-align: center;
+	padding: 20px;
+}
+#zid3{
+	text-align: center;
+	padding-top: 50px;
+}
+#zidtekst3{
+	font-family: Verdana;
+	font-size: 20px;
+	color: darkblue;
+	text-align: center;
+	padding: 20px;
+}
+#naslov3{
+	text-align: left;
+	font-family: Verdana;
+	font-size: 20px;
+	color: white;
+	padding-top: 50px;
+}
+#rad1{
+	text-align: center;
+}
+
+#radtekst1{
+	font-family: Verdana;
+	font-size: 20px;
+	color: greenyellow;
+	text-align: center;
+	padding: 20px;
+}
+#rad2{
+	text-align: center;
+	padding-top: 50px;
+}
+#radtekst2{
+	font-family: Verdana;
+	font-size: 20px;
+	color: red;
+	text-align: center;
+	padding: 20px;
+}
+#rad3{
+	text-align: center;
+	padding-top: 50px;
+}
+#radtekst3{
+	font-family: Verdana;
+	font-size: 20px;
+	color: brown;
+	text-align: center;
+	padding: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
